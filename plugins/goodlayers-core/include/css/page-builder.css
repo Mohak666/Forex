@@ -1,5 +1,8 @@
 /* theme style to reset wordpress backend */
-.gdlr-core-page-builder-body{ overflow: hidden; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.gdlr-core-page-builder-body{
+	overflow: hidden;
+	-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+	font-family: 'Raleway'; color: black }
 .gdlr-core-page-builder-body p{ margin-top: 0px; margin-bottom: 20px; font-size: inherit; }
 .gdlr-core-page-builder-body ul{ margin-top: 0px; }
 .gdlr-core-page-builder-body img{ max-width: 100%; height: auto; }
